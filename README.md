@@ -1,2 +1,5 @@
-# DSA
-This repository is for DSA programs
+# DELTA
+this is a demo for git &amp; Github class.
+
+# student 
+Delta Student
